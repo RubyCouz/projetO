@@ -6,6 +6,11 @@ body{
   margin: 0px;
   padding: 0px;
 }
+.col{
+  margin: 0px;
+  padding: 0px;
+  width: 20%;
+}
 a{
   color: black;
 }
@@ -156,4 +161,7 @@ a:hover{
 #c-3{
   height: 100%;
   float: right;
+}
+.card{
+  margin: 0px;
 }
