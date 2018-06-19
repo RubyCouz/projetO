@@ -1,0 +1,150 @@
+body{
+  color: black;
+  background-color: #EEEEEE;
+}
+.row{
+  margin: 0px;
+  padding: 0px;
+}
+a{
+  color: black;
+}
+
+#espaceclient{
+  background-color: #50BE87;
+  text-align: justify;
+  widht:100px;height:200px;
+}
+.client{
+  color:white;
+}
+p1{
+  color:white; margin-top: 20px; font-size:19px; text-align: center;
+}
+#mail{
+  background-color: #DDDDDD;
+  width:420px;height:230px;
+}
+.printemps{
+  font-size: 25px;color:black;
+
+}
+p2{
+  color:black;
+}
+#choice{
+  text-align: left;font-size: 20px;
+  border:1px solid grey;
+}
+.container-fluid{
+  margin-left: 300px;
+  margin-right: 500px;
+  width:1750px;
+  height:1000px;
+}
+a:hover{
+  background-color: lightgrey;
+}
+body{
+  background-color: #EEE;
+  color: #000;
+}
+h2{
+  color: #000;
+  display: inline-block;
+  font-size: 30px;
+  line-height: 35px;
+  margin: 0 0 10px 3.8%;
+}
+h2 a:hover{
+  color: #000;
+}
+ul{
+  display: inline-block;
+  padding: 5px 0 0 0;
+  margin: 0 0 0 15px;
+  list-style: none;
+}
+li a{
+  color: #000;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 23px;
+  padding: 0 15px;
+  text-decoration: none;
+}
+a:link{
+  color: #000;
+  cursor: pointer;
+  outline: 0 none;
+  text-decoration: none;
+}
+a:active{
+  color: #000;
+  text-decoration: none;
+}
+a:hover{
+  color: #EF7E00;
+}
+#cadtv{
+  width: 80%;
+  height: 250px;
+  position: absolute;
+}
+#c-1{
+  background-color: #EFEFEF;
+  height: 100%;
+  position: relative;
+  display: table-cell;
+  margin: 0;
+  float: left;
+}
+.img1-text{
+  width: 87.7%;
+  position: absolute;
+  left: 15px;
+  bottom: 15px;
+  z-index: 900;
+}
+.t-titre{
+  color: #FFF;
+  display: block;
+  font-size: 14px;
+  line-height: 1.2em;
+}
+.t-description{
+  color: #FFF;
+  margin-top: 2px;
+  font-size: 16px;
+  line-height: 1.25em;
+  font-weight: 700 !important;
+}
+#c-2{
+  height: 100%;
+  background-color: #EFEFEF;
+}
+#direct{
+  float: left;
+  display: block;
+  background-color: #FFF;
+  height: 50%;
+}
+.link-direct{
+  z-index: 0;
+  display: none;
+}
+#programmetv{
+  background-color: #FFF;
+  height: 50%;
+  float: left;
+  display: block;
+}
+#magtv{
+  height: 100%;
+  float: right;
+  display: block;
+}
+#c-3{
+  height: 100%;
+  float: right;
+}
