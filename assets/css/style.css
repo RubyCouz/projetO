@@ -39,7 +39,7 @@ p2{
 .container-fluid{
   margin-left: 300px;
   margin-right: 500px;
-  }
+}
 a:hover{
   background-color: lightgrey;
 }
@@ -121,6 +121,11 @@ a:hover{
   height: 100%;
   background-color: #EFEFEF;
 }
+#dir-prog{
+  height: 100%;
+  background: #FFF;
+  display: block;
+}
 #direct{
   float: left;
   display: block;
@@ -134,13 +139,19 @@ a:hover{
 #programmetv{
   background-color: #FFF;
   height: 50%;
-  float: left;
   display: block;
 }
+.rect{
+  height: 100px;
+  text-decoration: none;
+}
 #magtv{
-  height: 100%;
+  background-color: #EFEFEF;
   float: right;
   display: block;
+}
+#dunk{
+  background: #EFEFEF;
 }
 #c-3{
   height: 100%;
