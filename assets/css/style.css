@@ -13,7 +13,7 @@ a{
 #espaceclient{
   background-color: #50BE87;
   text-align: justify;
-  widht:100px;height:200px;
+  width:100px;height:200px;
 }
 .client{
   color:white;
@@ -39,9 +39,7 @@ p2{
 .container-fluid{
   margin-left: 300px;
   margin-right: 500px;
-  width:1750px;
-  height:1000px;
-}
+  }
 a:hover{
   background-color: lightgrey;
 }
