@@ -1,3 +1,6 @@
+header{
+  background-color: white;
+}
 body{
   color: black;
   background-color: #EEEEEE;
@@ -18,7 +21,7 @@ a{
 #espaceclient{
   background-color: #50BE87;
   text-align: justify;
-  width:100px;height:200px;
+  widht:100px;height:235px;
 }
 .client{
   color:white;
